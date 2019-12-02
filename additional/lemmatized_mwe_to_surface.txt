@@ -1,0 +1,96 @@
+ha_[någon]_på_tråde,[ha] [någon] på tråden
+ha_[något]_på_tunga,[ha] [något] på tungan
+ha_händ_full,[ha] händerna fulla
+[något]_att_hänga_i_julgran,[något] att hänga i julgranen
+bakom_galler,bakom galler
+betala_för_kalas,betala för kalaset
+bita_i_det_sura_äpple,bita i det sura äpplet
+blotta_sig,blotta sig
+blotta_strupe,blotta strupen
+brinna_av_iver,brinna av iver
+dag_sanning,dagens sanning
+det_fina_i_kråksång,det fina i kråksången
+eld_i_bak,eld i baken
+enligt_konst_all_regel,enligt konstens alla regler
+fara_åt_helvete,fara åt helvete
+fem_hjul,femte hjulet
+fjäril_i_mage,fjärilar i magen
+full_hus,fullt hus
+föra_[någon]_bakom_ljus,föra [någon] bakom ljuset
+förlora_ansikte,förlora ansiktet
+föröka_sig,föröka sig
+ge_[någon]_spark,ge [någon] sparken
+gnissla_med_tänderna,gnissla med tänderna
+gå_i_fälla,gå i fällan
+gå_i_kras,gå i kras
+gå_in_i_vägg,gå in i väggen
+gå_sin_egen_väg,gå sin egen väg
+gå_vidare,gå vidare
+gå_åt_skilda_håll,gå åt skilda håll
+göra_peng,göra pengar
+hissa_segel,hissa segel
+hämta_sig,hämta sig
+hänga_med_huvud,hänga med huvudet
+hänga_på_en_tråd,hänga på en tråd
+hålla_[någon]_ord,hålla [sitt] ord
+hålla_sig_på_matta,hålla sig på mattan
+hålla_tumme,hålla tummarna
+hålla_tyst,hålla tyst
+hålla_tätt,hålla tätt
+höja_[någon]_till_sky,höja [någon] till skyarna
+i_backspegel,i backspegeln
+i_krok,i krokarna
+kasta_en_blick,kasta en blick
+kasta_handske,kasta handsken
+kasta_på_sophög,kasta på sophögen
+kasta_vatten,kasta vatten
+knipa_käft,knipa käft
+kort_stubin,kort stubin
+kräla_i_stofte,kräla i stoftet
+leva_liv,leva livet
+lugna_gata,lugna gatan
+lägga_på_hylla,lägga på hyllan
+man_på_gata,mannen på gatan
+med_hand_på_hjärta,med handen på hjärtat
+med_vänster_hand,med vänster hand
+mitt_i_prick,mitt i prick
+objuden_gäst,objuden gäst
+ond_cirkel,ond cirkel
+på_banan,på banan
+på_högvarv,på högvarv
+på_lyse,på lyset
+raka_rör,raka rör
+rapp_i_käft,rapp i käften
+rasa_samman,rasa samman
+rynka_panna,rynka pannan
+röd_av_ilska,röd av ilska
+röra_på_påk,röra på påkarna
+se_mellan_fingrarna,se mellan fingrarna
+skaka_hand,skaka hand
+skatta_sig_lycklig,skatta sig lycklig
+skjuta_sig_i_fot,skjuta sig i foten
+skörda_frukterna,skörda frukterna
+slänga_ur_sig,slänga-ur sig
+snyta_sig,snyta sig
+sova_sked,sova sked
+spilla_tid,spilla tid
+spotta_i_glas,spotta i glaset
+sträcka_sig,sträcka sig
+sätta_punkt,sätta punkt
+ta_i_nackskinn,ta i nackskinnet
+tak_över_huvud,tak över huvudet
+tala_i_gåta,tala i gåtor
+tappa_tråd,tappa tråden
+tappa_bakom_en_vagn,tappad bakom en vagn
+tid_tand,tidens tand
+torr_bakom_öronen,torr bakom öronen
+torr_i_mun,torr i munnen
+ulv_i_fårakläder,ulv i fårakläder
+uppe_med_tupp,uppe med tuppen
+uppföra_sig_som_folk,uppföra sig som folk
+visa_tänd,visa tänderna
+väga_ord,väga orden
+vända_kapp_efter_vind,vända kappan efter vinden
+vända_sig_i_sin_grav,vända sig i sin grav
+öm_punkt,öm punkt
+öppet_vatten,öppet vatten

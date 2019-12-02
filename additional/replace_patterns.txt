@@ -1,0 +1,96 @@
+ha [a-zåäö]+ på tråd:ha_[någon]_på_tråde
+ha [a-zåäö]+ på tunga:ha_[något]_på_tunga
+ha hand full:ha_händ_full
+[a-zåäö]+ att hänga i julgran:[något]_att_hänga_i_julgran
+bakom galler:bakom_galler
+betala för kalas:betala_för_kalas
+bita i den sur äpple:bita_i_det_sura_äpple
+blotta (mig|dig|sig|oss|er):blotta_sig
+blotta strupe:blotta_strupe
+brinna av iver:brinna_av_iver
+dag sanning:dag_sanning
+den fin i kråksång:det_fina_i_kråksång
+eld i bak:eld_i_bak
+enligt konst all regel:enligt_konst_all_regel
+fara åt helvete:fara_åt_helvete
+fem hjul:fem_hjul
+fjäril i mage:fjäril_i_mage
+full hus:full_hus
+föra [a-zåäö]+ bakom ljus:föra_[någon]_bakom_ljus
+förlora ansikte:förlora_ansikte
+föröka (mig|dig|sig|oss|er):föröka_sig
+ge [a-zåäö]+ spark:ge_[någon]_spark
+gnissla med tand:gnissla_med_tänderna
+gå i fälla:gå_i_fälla
+gå i kras:gå_i_kras
+gå in i vägg:gå_in_i_vägg
+gå sin egen väg:gå_sin_egen_väg
+gå vidare:gå_vidare
+gå åt skilja håll:gå_åt_skilda_håll
+göra peng:göra_peng
+hissa segel:hissa_segel
+hämta (mig|dig|sig|oss|er):hämta_sig
+hänga med huvud:hänga_med_huvud
+hänga på en tråd:hänga_på_en_tråd
+hålla [a-zåäö]+ ord:hålla_[någon]_ord
+hålla (mig|dig|sig|oss|er) på matta:hålla_sig_på_matta
+hålla tumme:hålla_tumme
+hålla tyst:hålla_tyst
+hålla tätt:hålla_tätt
+höja [a-zåäö]+ till sky:höja_[någon]_till_sky
+i backspegel:i_backspegel
+i krok:i_krok
+kasta en blick:kasta_en_blick
+kasta handske:kasta_handske
+kasta på sophög:kasta_på_sophög
+kasta vatten:kasta_vatten
+knipa käft:knipa_käft
+kort stubin:kort_stubin
+kräla i stoft:kräla_i_stofte
+leva liv:leva_liv
+lugna gata:lugna_gata
+lägga på hylla:lägga_på_hylla
+man på gata:man_på_gata
+med hand på hjärta:med_hand_på_hjärta
+med vänster hand:med_vänster_hand
+mitt i prick:mitt_i_prick
+objuden gäst:objuden_gäst
+ond cirkel:ond_cirkel
+på bana:på_banan
+på högvarv:på_högvarv
+på lyse:på_lyse
+raka rör:raka_rör
+rapp i käft:rapp_i_käft
+rasa samman:rasa_samman
+rynka panna:rynka_panna
+röd av ilska:röd_av_ilska
+röra på påk:röra_på_påk
+se mellan finger:se_mellan_fingrarna
+skaka hand:skaka_hand
+skatta (mig|dig|sig|oss|er) lycklig:skatta_sig_lycklig
+skjuta (mig|dig|sig|oss|er) i fot:skjuta_sig_i_fot
+skörda frukt:skörda_frukterna
+slänga ur (mig|dig|sig|oss|er):slänga_ur_sig
+snyta (mig|dig|sig|oss|er):snyta_sig
+sova sked:sova_sked
+spilla tid:spilla_tid
+spotta i glas:spotta_i_glas
+sträcka (mig|dig|sig|oss|er):sträcka_sig
+sätta punkt:sätta_punkt
+ta [a-zåäö]+ i nackskinn:ta_i_nackskinn
+tak över huvud:tak_över_huvud
+tala i gåta:tala_i_gåta
+tappa tråd:tappa_tråd
+tappa bakom en vagn:tappa_bakom_en_vagn
+tid tand:tid_tand
+torr bakom öra:torr_bakom_öronen
+torr i mun:torr_i_mun
+ulv i fårakläder:ulv_i_fårakläder
+uppe med tupp:uppe_med_tupp
+uppföra (mig|dig|sig|oss|er) som folk:uppföra_sig_som_folk
+visa tand:visa_tänd
+väga ord:väga_ord
+vända kappa efter vind:vända_kapp_efter_vind
+vända (mig|dig|sig|oss|er) i sin grav:vända_sig_i_sin_grav
+öm punkt:öm_punkt
+öppen vatten:öppet_vatten

@@ -1,0 +1,288 @@
+#bakom galler
+L="galler" >case@L "bakom"
+
+betala #för kalaset
+L=betala >obl ("kalaset" >case@L "för")
+
+bita #i #det sura äpplet
+L=bita >obl ("äpplet" >amod@L "sura" >det@L "det" >case@L "i")
+
+blotta #sig
+L=blotta >iobj PRON
+
+blotta strupen
+L=blotta >compound:prt@R "strupen"
+
+brinna #av iver
+L=brinna >obl@R ("iver" >case@L "av")
+
+dagens sanning
+L="sanning" >nmod:poss@L "dagens"
+
+#det fina #i kråksången
+L=fin >det@L "det" >obl@R ("kråksången" >case@L "i")
+
+eld #i baken
+L=ha >obj ("eld" >nmod@R ("baken" >case@L "i"))
+
+
+enligt konstens #alla regler
+L="regler" >case@L "enligt" >det@L "alla" >nmod:poss@L "konstens"
+
+fara #åt helvete
+L=fara >obl@R ("helvete" >case@L "åt")
+
+femte hjulet
+L=hjul >amod@L "femte"
+
+fjärilar #i magen
+L="fjärilar" >nmod ("magen" >case@L "i")
+
+föra [någon] #bakom ljuset
+L=föra >obj _ >obl@R ("ljuset" >case@L "bakom")
+
+förlora ansiktet
+L=förlora >obj@R "ansiktet"
+
+föröka #sig
+L=föröka >iobj PRON
+
+fullt hus
+L="hus" >amod@L "fullt"
+
+gå #åt skilda håll
+L=gå >obl ("håll" >amod@L "skilda" >case@L "åt")
+
+gå #i fällan
+L=gå >obl ("fällan" >case@L "i")
+
+gå #i kras
+L=gå >obl ("kras" >case@L "i")
+
+gå #in #i väggen
+L=gå >compound:prt@R "in" >obl@R ("väggen" >case@L "i")
+
+gå #sin egen väg
+L=gå >obl ("väg" >amod@L L=egen >nmod:poss@L PRON)
+
+gå vidare
+L=gå >compound:prt@R "vidare"
+
+ge [någon] sparken
+L=ge >iobj _ >obj@R "sparken"
+
+gnissla #med tänderna
+L=gnissla >obl@R ("tänderna" >case@L "med")
+
+göra pengar
+L=göra >obj "pengar"
+
+[ha] händerna fulla
+L=ha >obj@R "händerna" >xcomp@R "fulla"
+
+hålla [#sitt] ord
+L=hålla >obj ("ord" >nmod:poss PRON&Poss)
+
+hålla #sig #på mattan
+L=hålla >iobj PRON >obl@R ("mattan" >case@L "på")
+
+hålla tätt
+L=hålla >compound:prt@R "tätt"
+
+hålla tummarna
+L=hålla >compound:prt@R "tummarna"
+
+hålla tyst
+L=hålla >compound:prt@R "tyst"
+
+hämta #sig
+L=hämta >iobj@R PRON
+
+hänga #med huvudet
+L=hänga >obl@R ("huvudet" >case@L "med")
+
+hänga #på #en tråd
+L=hänga >obl@R ("tråd" >det@L "en" >case@L "på")
+
+[ha] [någon] #på tråden
+L=ha >obj _ >obl@R ("tråden" >case@L "på")
+
+[ha] [något] #på tungan
+L=ha >obj _ >obl@R ("tungan" >case@L "på")
+
+hissa segel
+L=hissa >obj "segel"
+
+höja [någon] #till skyarna
+L=höja >obj _ >obl@R ("skyarna" >case@L "till")
+
+#i backspegeln
+L="backspegeln" >case@L "i"
+
+#i krokarna
+L="krokarna" >case@L "i"
+
+kasta #en blick
+L=kasta >obj ("blick" >det@L "en")
+
+kasta handsken
+L=kasta >obj@R "handsken"
+
+kasta #på sophögen
+L=kasta >obl@R ("sophögen" >case@L "på")
+
+kasta vatten
+L=kasta >compound:prt@R "vatten"
+
+knipa käft
+L=knipa >compound:prt@R "käft"
+
+kort stubin
+L="stubin" >amod@L "kort"
+
+kräla #i stoftet
+L=kräla >obl@R ("stoftet" >case@L "i")
+
+lägga #på hyllan
+L=lägga >obl@R ("hyllan" >case@L "på")
+
+leva livet
+L=leva >compound:prt@R "livet"
+
+lugna gatan
+L="gatan" >amod@L "lugna"
+
+mannen #på gatan
+L="mannen" >nmod@R ("gatan" >case@L "på")
+
+#med handen #på hjärtat
+L="handen" >nmod@R ("hjärtat" >case@L "på")
+
+#med vänster hand
+L="hand" >amod@R "vänster" >case@L "med"
+
+mitt #i prick
+L="prick" >advmod@L "mitt" >case@L "i"
+
+[något] #att hänga #i julgranen
+L="hänga" >mark@L "att" >obl@R ("julgranen" >case@L "i")
+
+objuden gäst
+L=gäst >amod@L L=objuden
+
+öm punkt
+L=punkt >amod@L L=öm
+
+ond cirkel
+L=cirkel >amod@L L=ond
+
+öppet vatten
+L="vatten" >amod@L "öppet"
+
+#på banan
+L=vara >obl ("banan" >case@L "på")
+
+#på högvarv
+L="högvarv" >case@L "på"
+
+#på lyset
+L="lyset" >case@L "på"
+
+raka rör
+L="rör" >amod@L "raka"
+
+rapp #i käften
+L=rapp >obl@R ("käften" >case@L "i")
+
+rasa samman
+L=rasa >compound:prt@R "samman"
+
+röd #av ilska
+L=röd >obl@R ("ilska" >case@L "av")
+
+röra #på påkarna
+L=röra >obl@R ("påkarna" >case@L "på")
+
+vända #sig #i #sin grav
+L=vända >iobj@R PRON >obl@R (L=grav >nmod:poss@L PRON&Poss >case@L "i")
+
+rynka pannan
+L=rynka >compound:prt@R "pannan"
+
+sätta punkt
+L=sätta >compound:prt@R "punkt"
+
+se #mellan fingrarna
+L=se >obl@R ("fingrarna" >case@L "mellan")
+
+skaka hand
+L=skaka >compound:prt@R "hand"
+
+skatta #sig lycklig
+L=skratta >obj@R PRON >xcomp@R L=lycklig
+
+skjuta #sig #i foten
+L=skjuta >obj@R PRON >obl@R ("foten" >case@L "i")
+
+skörda frukterna
+L=skörda >obj "frukterna"
+
+slänga-ur #sig
+L=slänga >compound:prt@R "ur" >iobj@R PRON
+
+snyta #sig
+L=snyta >iobj@R PRON
+
+sova sked
+L=sova >compound:prt@R "sked"
+
+spilla tid
+L=spilla >compound:prt@R "tid"
+
+spotta #i glaset
+L=spotta >obl@R ("glaset" >case@L "i")
+
+sträcka #sig
+L=sträcka >iobj@R PRON
+
+ta #i nackskinnet
+L=ta >obl@R ("nackskinnet" >case@L "i")
+
+tak #över huvudet
+L="tak" >nmod@R ("huvudet" >case@L "över")
+
+tala #i gåtor
+L=tala >obl@R ("gåtor" >case@L "i")
+
+tappad bakom #en vagn
+L="tappad" >nmod@R ("vagn" >case@L "bakom")
+
+tappa tråden
+L=tappa >obj "tråden"
+
+tidens tand
+L="tand" >nmod:poss@L "tidens"
+
+torr #bakom öronen
+L=torr >obl ("öronen" >case@L "bakom")
+
+torr #i munnen
+L=torr >obl@R ("munnen" >case@L "i")
+
+ulv #i fårakläder
+L=ulv >obl@R ("fårakläder" >case@L "i")
+
+uppe #med tuppen
+L="uppe" >obl@R ("tuppen" >case@L "med")
+
+uppföra #sig #som folk
+L=uppföra >iobj@R PRON >obl@R ("folk" >case@L "som")
+
+väga orden
+L=väga >obj L=ord
+
+vända kappan #efter vinden
+L=vända >obj L=kappa >obl@R ("vinden" >case@L "efter")
+
+visa tänderna
+L=visa >compound:prt@R "tänderna"

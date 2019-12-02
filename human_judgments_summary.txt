@@ -1,0 +1,280 @@
+[ha] [någon] på tråden,3.333,1.247
+[ha] [någon] på tråden_tråden,3.167,1.302
+[ha] [något] på tungan,3.312,1.21
+[ha] [något] på tungan_tungan,3.062,1.298
+[ha] händerna fulla,3.211,1.472
+[ha] händerna fulla_fulla,2.368,1.661
+[ha] händerna fulla_händerna,2.421,1.786
+[något] att hänga i julgranen,4.643,0.811
+[något] att hänga i julgranen_hänga,4.214,1.206
+[något] att hänga i julgranen_julgranen,4.286,1.485
+bakom galler,1.9,1.411
+bakom galler_galler,2.35,1.492
+betala för kalaset,2.412,1.032
+betala för kalaset_betala,0.941,0.998
+betala för kalaset_kalaset,3.059,1.589
+bita i det sura äpplet,4.778,0.533
+bita i det sura äpplet_bita,4.167,0.833
+bita i det sura äpplet_sura,4.111,0.737
+bita i det sura äpplet_äpplet,4.389,1.161
+blotta sig,2.588,1.286
+blotta sig_blotta,2.882,1.49
+blotta strupen,3.85,0.853
+blotta strupen_blotta,2.6,1.158
+blotta strupen_strupen,3.9,1.513
+brinna av iver,3.85,0.853
+brinna av iver_brinna,4.4,0.917
+brinna av iver_iver,0.85,1.108
+dagens sanning,2.133,1.36
+dagens sanning_dagens,2.333,1.445
+dagens sanning_sanning,1.067,1.123
+det fina i kråksången,4.5,0.645
+det fina i kråksången_fina,1.833,1.572
+det fina i kråksången_kråksången,4.667,0.471
+eld i baken,4.688,0.464
+eld i baken_baken,4.5,0.612
+eld i baken_eld,4.562,0.496
+enligt konstens alla regler,3.133,1.31
+enligt konstens alla regler_enligt,0.733,0.929
+enligt konstens alla regler_konstens,3.333,1.135
+enligt konstens alla regler_regler,1.867,1.36
+fara åt helvete,4.211,1.055
+fara åt helvete_fara,3.053,1.468
+fara åt helvete_helvete,3.842,1.598
+femte hjulet,4.421,0.674
+femte hjulet_femte,3.053,1.605
+femte hjulet_hjulet,3.632,1.596
+fjärilar i magen,4.25,1.043
+fjärilar i magen_fjärilar,4.5,1.072
+fjärilar i magen_magen,2.15,1.526
+fullt hus,2.0,0.935
+fullt hus_fullt,0.875,0.927
+fullt hus_hus,1.875,0.992
+föra [någon] bakom ljuset,4.062,1.144
+föra [någon] bakom ljuset_föra,2.875,1.317
+föra [någon] bakom ljuset_ljuset,4.188,0.882
+förlora ansiktet,4.455,0.656
+förlora ansiktet_ansiktet,4.318,0.972
+förlora ansiktet_förlora,3.318,1.061
+föröka sig,1.667,1.535
+föröka sig_föröka,1.533,1.454
+ge [någon] sparken,4.0,1.118
+ge [någon] sparken_ge,2.312,1.685
+ge [någon] sparken_sparken,4.375,0.857
+gnissla med tänderna,1.909,1.24
+gnissla med tänderna_gnissla,2.364,1.494
+gnissla med tänderna_tänderna,1.545,1.233
+gå i fällan,3.105,1.165
+gå i fällan_fällan,2.842,1.308
+gå i fällan_gå,2.684,1.524
+gå i kras,2.938,1.713
+gå i kras_gå,2.875,2.088
+gå i kras_kras,2.25,1.75
+gå in i väggen,4.5,0.687
+gå in i väggen_gå,3.889,1.37
+gå in i väggen_väggen,4.167,1.344
+gå sin egen väg,3.176,1.465
+gå sin egen väg_egen,1.882,1.641
+gå sin egen väg_gå,2.824,1.504
+gå sin egen väg_väg,3.294,1.525
+gå vidare,3.0,1.058
+gå vidare_gå,3.16,1.317
+gå vidare_vidare,2.16,1.541
+gå åt skilda håll,2.684,1.453
+gå åt skilda håll_gå,2.421,1.426
+gå åt skilda håll_håll,2.316,1.687
+gå åt skilda håll_skilda,1.842,1.424
+göra pengar,2.312,1.31
+göra pengar_göra,2.5,1.803
+göra pengar_pengar,0.812,0.95
+hissa segel,3.0,1.966
+hissa segel_hissa,2.733,1.914
+hissa segel_segel,3.133,1.996
+hämta sig,3.8,1.108
+hämta sig_hämta,3.733,1.181
+hänga med huvudet,3.053,1.05
+hänga med huvudet_huvudet,2.105,1.372
+hänga med huvudet_hänga,2.684,1.029
+hänga på en tråd,4.333,0.943
+hänga på en tråd_hänga,3.583,1.187
+hänga på en tråd_tråd,4.167,0.986
+hålla [sitt] ord,2.789,1.575
+hålla [sitt] ord_hålla,2.421,1.6
+hålla [sitt] ord_ord,2.158,1.387
+hålla sig på mattan,4.562,0.496
+hålla sig på mattan_hålla,3.0,1.118
+hålla sig på mattan_mattan,4.562,0.864
+hålla tummarna,3.0,1.589
+hålla tummarna_hålla,2.316,1.624
+hålla tummarna_tummarna,2.632,1.754
+hålla tyst,2.0,1.451
+hålla tyst_hålla,2.526,1.391
+hålla tyst_tyst,1.0,1.556
+hålla tätt,2.154,1.231
+hålla tätt_hålla,1.692,1.323
+hålla tätt_tätt,1.692,1.264
+höja [någon] till skyarna,3.909,0.9
+höja [någon] till skyarna_höja,1.955,1.107
+höja [någon] till skyarna_skyarna,4.455,0.582
+i backspegeln,3.737,1.291
+i backspegeln_backspegeln,3.526,1.428
+i krokarna,4.2,0.98
+i krokarna_krokarna,4.0,1.483
+kasta en blick,3.357,1.172
+kasta en blick_blick,1.214,1.423
+kasta en blick_kasta,3.857,1.355
+kasta handsken,3.688,1.102
+kasta handsken_handsken,3.188,1.509
+kasta handsken_kasta,3.062,1.56
+kasta på sophögen,2.667,1.106
+kasta på sophögen_kasta,2.278,1.483
+kasta på sophögen_sophögen,2.611,1.704
+kasta vatten,3.615,1.211
+kasta vatten_kasta,3.538,1.216
+kasta vatten_vatten,2.385,1.389
+knipa käft,2.0,1.298
+knipa käft_knipa,1.632,1.086
+knipa käft_käft,1.263,1.481
+kort stubin,4.462,0.746
+kort stubin_kort,2.846,1.955
+kort stubin_stubin,4.538,0.634
+kräla i stoftet,4.45,0.669
+kräla i stoftet_kräla,3.9,1.3
+kräla i stoftet_stoftet,4.4,0.663
+leva livet,2.667,1.291
+leva livet_leva,2.333,1.633
+leva livet_livet,2.111,1.242
+lugna gatan,3.389,1.112
+lugna gatan_gatan,3.333,1.414
+lugna gatan_lugna,1.444,1.212
+lägga på hyllan,4.105,0.64
+lägga på hyllan_hyllan,4.158,0.812
+lägga på hyllan_lägga,3.263,1.207
+mannen på gatan,2.882,1.182
+mannen på gatan_gatan,2.824,1.097
+mannen på gatan_mannen,2.294,1.072
+med handen på hjärtat,3.65,1.236
+med handen på hjärtat_handen,2.95,1.746
+med handen på hjärtat_hjärtat,3.35,1.424
+med vänster hand,2.75,1.785
+med vänster hand_hand,1.812,1.704
+med vänster hand_vänster,2.938,1.784
+mitt i prick,3.0,1.323
+mitt i prick_mitt,1.25,1.199
+mitt i prick_prick,3.125,1.763
+objuden gäst,1.455,1.076
+objuden gäst_gäst,1.636,1.553
+objuden gäst_objuden,1.182,1.192
+ond cirkel,4.0,0.845
+ond cirkel_cirkel,3.286,1.385
+ond cirkel_ond,3.071,1.334
+på banan,3.6,0.663
+på banan_banan,3.5,0.806
+på högvarv,3.111,1.286
+på högvarv_högvarv,2.944,1.353
+på lyset,4.733,0.442
+på lyset_lyset,4.533,1.024
+raka rör,4.6,0.49
+raka rör_raka,3.5,1.285
+raka rör_rör,4.9,0.3
+rapp i käften,2.667,1.247
+rapp i käften_käften,1.583,1.32
+rapp i käften_rapp,2.0,1.732
+rasa samman,2.842,1.136
+rasa samman_rasa,2.737,1.516
+rasa samman_samman,2.579,1.389
+rynka pannan,0.938,1.029
+rynka pannan_pannan,0.938,1.144
+rynka pannan_rynka,0.875,1.053
+röd av ilska,2.214,1.473
+röd av ilska_ilska,0.429,0.728
+röd av ilska_röd,2.357,1.586
+röra på påkarna,3.412,1.191
+röra på påkarna_påkarna,4.176,0.923
+röra på påkarna_röra,1.059,1.259
+se mellan fingrarna,4.353,0.478
+se mellan fingrarna_fingrarna,4.235,1.002
+se mellan fingrarna_se,2.647,1.234
+skaka hand,1.294,0.749
+skaka hand_hand,0.941,0.872
+skaka hand_skaka,1.765,1.165
+skatta sig lycklig,2.643,1.836
+skatta sig lycklig_lycklig,0.929,1.223
+skatta sig lycklig_skatta,2.643,1.913
+skjuta sig i foten,4.238,1.269
+skjuta sig i foten_foten,4.286,1.278
+skjuta sig i foten_skjuta,4.143,1.283
+skörda frukterna,3.5,0.866
+skörda frukterna_frukterna,3.312,1.31
+skörda frukterna_skörda,2.75,1.299
+slänga-ur sig,3.417,0.862
+slänga-ur sig_slänga-ur,3.333,1.374
+snyta sig,0.625,1.409
+snyta sig_snyta,0.312,0.682
+sova sked,2.053,1.356
+sova sked_sked,3.053,1.538
+sova sked_sova,0.316,0.465
+spilla tid,3.0,1.058
+spilla tid_spilla,3.6,1.131
+spilla tid_tid,1.2,1.549
+spotta i glaset,3.714,0.881
+spotta i glaset_glaset,1.786,1.567
+spotta i glaset_spotta,3.071,1.534
+sträcka sig,1.889,1.449
+sträcka sig_sträcka,2.0,1.599
+sätta punkt,2.947,1.638
+sätta punkt_punkt,3.0,1.777
+sätta punkt_sätta,2.737,1.712
+ta i nackskinnet,3.857,0.915
+ta i nackskinnet_nackskinnet,4.0,0.845
+ta i nackskinnet_ta,2.643,1.493
+tak över huvudet,1.647,1.281
+tak över huvudet_huvudet,1.765,1.591
+tak över huvudet_tak,1.706,1.404
+tala i gåtor,2.933,1.236
+tala i gåtor_gåtor,2.8,1.759
+tala i gåtor_tala,0.533,0.618
+tappa tråden,4.267,0.68
+tappa tråden_tappa,3.0,1.155
+tappa tråden_tråden,4.2,0.833
+tappad bakom en vagn,4.444,0.831
+tappad bakom en vagn_bakom,3.278,1.193
+tappad bakom en vagn_tappad,3.611,1.253
+tappad bakom en vagn_vagn,3.722,1.446
+tidens tand,4.333,0.943
+tidens tand_tand,4.417,1.187
+tidens tand_tidens,1.25,1.09
+torr bakom öronen,4.786,0.558
+torr bakom öronen_torr,4.429,0.904
+torr bakom öronen_öronen,4.643,0.811
+torr i munnen,0.5,0.645
+torr i munnen_munnen,0.25,0.433
+torr i munnen_torr,0.667,0.943
+ulv i fårakläder,4.261,1.188
+ulv i fårakläder_fårakläder,4.217,1.317
+ulv i fårakläder_ulv,4.087,1.1
+uppe med tuppen,2.75,1.436
+uppe med tuppen_tuppen,2.938,1.248
+uppe med tuppen_uppe,0.625,0.696
+uppföra sig som folk,1.667,1.155
+uppföra sig som folk_folk,2.167,1.213
+uppföra sig som folk_uppföra,0.611,0.826
+visa tänderna,3.727,1.42
+visa tänderna_tänderna,2.818,2.037
+visa tänderna_visa,2.091,1.676
+väga orden,3.611,1.061
+väga orden_orden,1.278,1.193
+väga orden_väga,4.111,1.1
+vända kappan efter vinden,4.55,0.497
+vända kappan efter vinden_kappan,3.95,1.322
+vända kappan efter vinden_vinden,3.7,0.843
+vända kappan efter vinden_vända,2.4,1.356
+vända sig i sin grav,4.789,0.408
+vända sig i sin grav_grav,3.789,1.398
+vända sig i sin grav_vända,3.632,1.596
+öm punkt,3.25,0.924
+öm punkt_punkt,2.833,1.213
+öm punkt_öm,2.667,1.7
+öppet vatten,2.556,1.832
+öppet vatten_vatten,1.444,1.641
+öppet vatten_öppet,2.222,1.685
