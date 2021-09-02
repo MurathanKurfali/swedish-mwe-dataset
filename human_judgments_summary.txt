@@ -1,3 +1,4 @@
+MWE,MWE_mean,MWE_std
 [ha] [någon] på tråden,3.333,1.247
 [ha] [någon] på tråden_tråden,3.167,1.302
 [ha] [något] på tungan,3.312,1.21
